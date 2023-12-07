@@ -26,7 +26,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
-  defaultPageCover: https://picsum.photos/1500/1500.webp,
+  defaultPageCover: 'https://picsum.photos/1500/1500.webp',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
