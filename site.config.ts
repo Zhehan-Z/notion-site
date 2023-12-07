@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'ZhehanZ',
   domain: 'zhehanz.com',
-  author: 'Zhehan Zhang',
+  author: 'ZhehanZ',
 
   // open graph metadata (optional)
   description: 'The personal site of Zhehan Zhang. Get to know me more on this site!',
