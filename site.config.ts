@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'ZhehanZ',
 
   // open graph metadata (optional)
-  description: 'The personal site of Zhehan Zhang. Get to know me more on this site!',
+  description: 'Zheha.nZ / 张哲涵的个人网站分享',
 
   // social usernames (optional)
   twitter: 'Zhehan_Z',
@@ -26,7 +26,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageCover: https://picsum.photos/1500/1500.webp,
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
@@ -42,7 +42,7 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-     '/blog': '3988f82713a04819840c32cd1118d22a',
+     '/blog': '68807bbb3db746e6ab6b7db79477aadf',
      '/portfolio': '21b2316c658941568156dc71f687d781',
      '/about': 'b51d52be62784a6d83ed71866ae26b11',
      '/friends': '5d9008b017d248e492b79ce96b95118b',
