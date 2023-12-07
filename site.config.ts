@@ -42,7 +42,8 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-     '/blog': '68807bbb3db746e6ab6b7db79477aadf',
+     '/blog': '3988f82713a04819840c32cd1118d22a',
+     '/portfolio': '21b2316c658941568156dc71f687d781',
      '/about': 'b51d52be62784a6d83ed71866ae26b11',
      '/friends': '5d9008b017d248e492b79ce96b95118b',
      '/contact': 'b9451aab2a3f48c89839c28074d66f87',
@@ -51,7 +52,7 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  navigationStyle: 'custom',
+  navigationStyle: 'default',
   navigationLinks: [   
     {
       title: 'Blog',
